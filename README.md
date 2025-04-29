@@ -32,15 +32,6 @@ This is a **real-world client website** I designed and managed using **Wix Studi
 
 ---
 
-## 📷 Screenshots
-| Homepage                        | Digital Twin View                |
-|--------------------------------|----------------------------------|
-| ![Home](assets/homepage.png)   | ![Twin](assets/digital-twin.png) |
-
-> *You can find more visuals and workflow details in the assets folder.*
-
----
-
 ## 🧑‍💼 Why This Project Matters for Employers
 
 This project shows my ability to:
