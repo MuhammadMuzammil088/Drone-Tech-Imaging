@@ -1,7 +1,5 @@
-![Drone Tech Imaging Screenshot](assets/DroneTech.gif)
-
 # 🛰️ Drone Tech Imaging (HJBC Global) — Wix Studio Project
-
+![AxiomPrime Demo](assets/DroneTech.gif)
 This is a **real-world client website** I designed and managed using **Wix Studio**, focusing on infrastructure monitoring through **AI-powered drones** and **digital twin technology**. This project highlights my skills in modern no-code development, responsive design, SEO principles, and user-centered layout strategy.
 
 ---
