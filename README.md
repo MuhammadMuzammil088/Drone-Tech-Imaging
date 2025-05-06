@@ -1,4 +1,4 @@
-![Drone Tech Imaging Screenshot](assets/screencapture-hjbcglobal-wixstudio-drone-tech-imaging-2025-04-29-16_13_23.png)
+![Drone Tech Imaging Screenshot](assets/DroneTech.gif)
 
 # 🛰️ Drone Tech Imaging (HJBC Global) — Wix Studio Project
 
